@@ -185,7 +185,7 @@ body {
   display: flex;
 }
 
-.main .project-section .project-gallery .img-gallery .stack h4 {
+.main .project-section .project-gallery .img-gallery .stack h5 {
   margin-right: 10px;
   border: 2px solid rgb(128, 128, 128, 0.1);
   padding: 0 15px;
